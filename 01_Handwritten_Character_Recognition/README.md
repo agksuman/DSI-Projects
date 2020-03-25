@@ -63,4 +63,4 @@ At this stage following models are trained using train data and tested the accur
 
 
 
-Please refer presentation on the project for more detail of the project https://github.com/agksuman/DSI-Projects/blob/master/Handwritten_Character_Recognition/CapstoneProject_Suman_2020_at_GA.pdf
+Please refer presentation on the project for more detail of the project https://github.com/agksuman/DSI-Projects/blob/master/01_Handwritten_Character_Recognition/CapstoneProject_Suman_2020_at_GA.pdf
